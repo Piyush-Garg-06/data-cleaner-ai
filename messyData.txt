@@ -1,0 +1,3 @@
+name: john doe | age: 21 | email: JOHN@gmail.com
+NAME: jane smith | age: twenty-two | email: jane.smith@yahoo.com
+name: ALICE jones | Age: 20 | Email: aliceJ@college.edu
